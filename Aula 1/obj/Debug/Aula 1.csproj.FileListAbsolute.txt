@@ -1,0 +1,7 @@
+D:\TEMP\2025-2026\POO\AulasPOO\Aula 1\bin\Debug\Aula 1.exe.config
+D:\TEMP\2025-2026\POO\AulasPOO\Aula 1\bin\Debug\Aula 1.exe
+D:\TEMP\2025-2026\POO\AulasPOO\Aula 1\bin\Debug\Aula 1.pdb
+D:\TEMP\2025-2026\POO\AulasPOO\Aula 1\obj\Debug\Aula 1.csproj.AssemblyReference.cache
+D:\TEMP\2025-2026\POO\AulasPOO\Aula 1\obj\Debug\Aula 1.csproj.CoreCompileInputs.cache
+D:\TEMP\2025-2026\POO\AulasPOO\Aula 1\obj\Debug\Aula 1.exe
+D:\TEMP\2025-2026\POO\AulasPOO\Aula 1\obj\Debug\Aula 1.pdb
