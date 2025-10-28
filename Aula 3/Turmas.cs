@@ -21,8 +21,10 @@ namespace Aula_3
     public class Turmas
     {
         #region Attributes
-        int totTurmas;
-        Turma[] turmas; //tentar static
+        const int SIZE = 100;
+        string escola;
+        static int totTurmas;
+        static Turma[] conjTurmas; //tentar static
         #endregion
 
         #region Methods
@@ -34,13 +36,31 @@ namespace Aula_3
         /// </summary>
         public Turmas()
         {
-            turmas = new Turma[20];
+            conjTurmas = new Turma[SIZE];
             totTurmas = 0;
+            escola = "SEM NOME";
         }
-
+        public Turmas(int s, string n)
+        {
+            conjTurmas = (s <= 0 && s > SIZE) ? new Turma[SIZE] : new Turma[s];
+            totTurmas = 0;
+            escola = n;
+        }
         #endregion
 
         #region Properties
+
+        public static int TotAlunos
+        {
+            get { return totTurmas; }
+            //set;                  //não é admitido
+        }
+
+       public string Escola
+        {
+            get { return escola; }
+            set { if (value.ToString().Length>0) escola = value; }
+        }
         #endregion
 
 
@@ -50,11 +70,40 @@ namespace Aula_3
 
         #region OtherMethods
 
-        public bool InsertTurma(Turma t)
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="t"></param>
+        /// <returns></returns>
+        public static bool InsertTurma(Turma t)
         {
-            //CUIDADO
-            turmas[totTurmas++] = t;
+            if (Turmas.ExisteTurma(t.Numero) == true) return false;
+            if(totTurmas<SIZE)
+                conjTurmas[totTurmas++] = t;
             return true;
+        }
+
+        /// <summary>
+        /// Verifia se determinada turma existe
+        /// </summary>
+        /// <param name="num"></param>
+        /// <returns></returns>
+        public static bool ExisteTurma(int num)
+        {
+            for(int i=0; i < totTurmas; i++)
+            {
+                if (conjTurmas[i].Numero == num) return true;
+            }
+            return false;
+        }
+
+        public static Turma QueTurma(int num)
+        {
+            for (int i = 0; i < totTurmas; i++)
+            {
+                if (conjTurmas[i].Numero == num) return conjTurmas[i];
+            }
+            return null;
         }
 
         #endregion

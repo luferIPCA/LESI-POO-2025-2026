@@ -21,8 +21,9 @@ namespace Aula_3
     {
         #region Attributes
         int totStudents;
+        int numero;
         Student[] alunos;
-
+        static int numeroGlobalTurma = 0;
         #endregion
 
         #region Methods
@@ -36,6 +37,8 @@ namespace Aula_3
         {
             totStudents = 0;
             alunos = new Student[100];
+            numero = numeroGlobalTurma;
+            numeroGlobalTurma++;
         }
 
         public Turma(int size)
@@ -43,11 +46,28 @@ namespace Aula_3
             totStudents = 0;
             if (size < 0 || size > 100) size = 100; //business rule!!!
             alunos = new Student[size];
+            numero = numeroGlobalTurma;
+            numeroGlobalTurma++;
         }
 
         #endregion
 
         #region Properties
+        public int Numero
+        {
+            get { return numero; }
+            set { numero = value; }
+        }
+
+        public static int NumeroGlobalTurma
+        {
+            get { return numeroGlobalTurma; }
+        }
+
+        public int TotStudents
+        {
+            get { return totStudents; }
+        }
         #endregion
 
 
@@ -60,6 +80,7 @@ namespace Aula_3
         public bool InsertStudent(Student s)
         {
             //validations
+            //return false;
             alunos[totStudents++] = s;
             return true;
         }

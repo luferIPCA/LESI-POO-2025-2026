@@ -18,8 +18,12 @@ namespace Aula_3
             //Turma t2 = new Turma(-10);    //What?
             t1.InsertStudent(s1);
 
-            Turmas ts = new Turmas();
-            ts.InsertTurma(t1);
+            Turmas ts = new Turmas(100,"EST-IPCA");
+            //ts.InsertTurma(t1);               //metodo static == método de classe!
+            bool b = Turmas.InsertTurma(t1);
+            if (b == false) Console.WriteLine("Nem penses...");
+            b=Turmas.InsertTurma(t1);
+            if (b == false) Console.WriteLine("Nem penses...");
 
         }
     }
