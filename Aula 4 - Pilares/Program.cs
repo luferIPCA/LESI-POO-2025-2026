@@ -29,7 +29,13 @@ namespace Aula_4___Pilares
             Docente d = new Docente();
 
             Aluno a = new Aluno();
-            a.
+
+            #region Outras
+            var b = new Base();
+            b.Api();  // returns "Classe Base"
+            var d1 = new Derived();
+            d1.Api(); // returns "Classe Derivada"
+            #endregion
         }
     }
 }
