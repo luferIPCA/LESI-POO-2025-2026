@@ -27,6 +27,8 @@ namespace Aula_4___Pilares
 
         #region Methods
 
+        public void OK() { }
+
         #region Constructors
 
         /// <summary>
@@ -40,7 +42,6 @@ namespace Aula_4___Pilares
 
         #region Properties
         #endregion
-
 
 
         #region Overrides

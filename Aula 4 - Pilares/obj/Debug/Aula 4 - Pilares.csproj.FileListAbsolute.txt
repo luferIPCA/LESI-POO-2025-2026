@@ -1,0 +1,7 @@
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 4 - Pilares\bin\Debug\Aula 4 - Pilares.exe.config
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 4 - Pilares\bin\Debug\Aula 4 - Pilares.exe
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 4 - Pilares\bin\Debug\Aula 4 - Pilares.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 4 - Pilares\obj\Debug\Aula 4 - Pilares.csproj.AssemblyReference.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 4 - Pilares\obj\Debug\Aula 4 - Pilares.csproj.CoreCompileInputs.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 4 - Pilares\obj\Debug\Aula 4 - Pilares.exe
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 4 - Pilares\obj\Debug\Aula 4 - Pilares.pdb

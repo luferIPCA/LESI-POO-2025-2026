@@ -4,7 +4,7 @@
 *	</copyright>
 * 	<author>mustl</author>
 *   <date>10/28/2025 4:53:50 PM</date>
-*	<description></description>
+*	<description>Metodos Protected</description>
 **/
 using System;
 
@@ -13,23 +13,26 @@ namespace Aula_4___Pilares
     /// <summary>
     /// 
     /// </summary>
-    public class Base
+    public class Pai    
     {
         public void Api()
         {
-            InternalUtilityMethod();
+            InternalMethod();
         }
-        protected virtual void InternalUtilityMethod()
+        protected virtual void InternalMethod()
         {
-            Console.WriteLine("Classe Base");
+            Console.WriteLine("Classe Pai");
         }
+
+        
     }
     /// <summary>
     /// 
     /// </summary>
-    public class Derived : Base
+    public class Derived : Pai
     {
-        protected override void InternalUtilityMethod()
+
+        protected override void InternalMethod()
         {
             Console.WriteLine("Classe Derivada");
         }
