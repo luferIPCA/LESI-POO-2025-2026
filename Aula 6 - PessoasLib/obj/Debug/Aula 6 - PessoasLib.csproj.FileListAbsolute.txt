@@ -1,0 +1,9 @@
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - PessoasLib\bin\Debug\Aula 6 - PessoasLib.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - PessoasLib\bin\Debug\Aula 6 - PessoasLib.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - PessoasLib\obj\Debug\Aula 6 - PessoasLib.csproj.AssemblyReference.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - PessoasLib\obj\Debug\Aula 6 - PessoasLib.csproj.CoreCompileInputs.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - PessoasLib\obj\Debug\Aula 6 -.A8D862A0.Up2Date
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - PessoasLib\obj\Debug\Aula 6 - PessoasLib.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - PessoasLib\obj\Debug\Aula 6 - PessoasLib.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - PessoasLib\bin\Debug\Aula 6 - PessoaLib.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - PessoasLib\bin\Debug\Aula 6 - PessoaLib.pdb

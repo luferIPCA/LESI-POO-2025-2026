@@ -1,0 +1,6 @@
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - Libraries\bin\Debug\Aula 6 - Libraries.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - Libraries\bin\Debug\Aula 6 - Libraries.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - Libraries\obj\Debug\Aula 6 - Libraries.csproj.AssemblyReference.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - Libraries\obj\Debug\Aula 6 - Libraries.csproj.CoreCompileInputs.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - Libraries\obj\Debug\Aula 6 - Libraries.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - Libraries\obj\Debug\Aula 6 - Libraries.pdb

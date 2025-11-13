@@ -1,0 +1,12 @@
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - UsaLibraries\bin\Debug\Aula 6 - UsaLibraries.exe.config
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - UsaLibraries\bin\Debug\Aula 6 - UsaLibraries.exe
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - UsaLibraries\bin\Debug\Aula 6 - UsaLibraries.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - UsaLibraries\bin\Debug\Aula 6 - PessoaLib.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - UsaLibraries\bin\Debug\Aula 6 - PessoasLib.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - UsaLibraries\bin\Debug\Aula 6 - PessoaLib.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - UsaLibraries\bin\Debug\Aula 6 - PessoasLib.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - UsaLibraries\obj\Debug\Aula 6 - UsaLibraries.csproj.AssemblyReference.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - UsaLibraries\obj\Debug\Aula 6 - UsaLibraries.csproj.CoreCompileInputs.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - UsaLibraries\obj\Debug\Aula 6 -.9E99CB2A.Up2Date
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - UsaLibraries\obj\Debug\Aula 6 - UsaLibraries.exe
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - UsaLibraries\obj\Debug\Aula 6 - UsaLibraries.pdb

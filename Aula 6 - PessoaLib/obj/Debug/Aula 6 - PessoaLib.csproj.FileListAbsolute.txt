@@ -1,0 +1,12 @@
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - Libraries\bin\Debug\Aula 6 - Libraries.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - Libraries\bin\Debug\Aula 6 - Libraries.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - Libraries\obj\Debug\Aula 6 - PessoaLib.csproj.AssemblyReference.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - Libraries\obj\Debug\Aula 6 - PessoaLib.csproj.CoreCompileInputs.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - Libraries\obj\Debug\Aula 6 - Libraries.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - Libraries\obj\Debug\Aula 6 - Libraries.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - PessoaLib\obj\Debug\Aula 6 - PessoaLib.csproj.AssemblyReference.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - PessoaLib\obj\Debug\Aula 6 - PessoaLib.csproj.CoreCompileInputs.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - PessoaLib\bin\Debug\Aula 6 - PessoaLib.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - PessoaLib\bin\Debug\Aula 6 - PessoaLib.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - PessoaLib\obj\Debug\Aula 6 - PessoaLib.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 6 - PessoaLib\obj\Debug\Aula 6 - PessoaLib.pdb
