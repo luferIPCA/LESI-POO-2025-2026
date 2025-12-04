@@ -1,0 +1,7 @@
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula-12-Generics\bin\Debug\Aula-12-Generics.exe.config
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula-12-Generics\bin\Debug\Aula-12-Generics.exe
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula-12-Generics\bin\Debug\Aula-12-Generics.pdb
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula-12-Generics\obj\Debug\Aula-12-Generics.csproj.AssemblyReference.cache
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula-12-Generics\obj\Debug\Aula-12-Generics.csproj.CoreCompileInputs.cache
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula-12-Generics\obj\Debug\Aula-12-Generics.exe
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula-12-Generics\obj\Debug\Aula-12-Generics.pdb
