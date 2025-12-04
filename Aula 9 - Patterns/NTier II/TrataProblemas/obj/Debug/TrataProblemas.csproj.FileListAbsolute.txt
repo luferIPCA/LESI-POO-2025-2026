@@ -1,0 +1,6 @@
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\TrataProblemas\bin\Debug\TrataProblemas.dll
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\TrataProblemas\bin\Debug\TrataProblemas.pdb
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\TrataProblemas\obj\Debug\TrataProblemas.csproj.AssemblyReference.cache
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\TrataProblemas\obj\Debug\TrataProblemas.csproj.CoreCompileInputs.cache
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\TrataProblemas\obj\Debug\TrataProblemas.dll
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\TrataProblemas\obj\Debug\TrataProblemas.pdb

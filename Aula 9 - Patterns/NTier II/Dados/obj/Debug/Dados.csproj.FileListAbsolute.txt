@@ -1,0 +1,11 @@
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\Dados\bin\Debug\Dados.dll
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\Dados\bin\Debug\Dados.pdb
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\Dados\bin\Debug\BO.dll
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\Dados\bin\Debug\BO.pdb
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\Dados\obj\Debug\Dados.csproj.Up2Date
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\Dados\obj\Debug\Dados.dll
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\Dados\obj\Debug\Dados.pdb
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\Dados\bin\Debug\TrataProblemas.dll
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\Dados\bin\Debug\TrataProblemas.pdb

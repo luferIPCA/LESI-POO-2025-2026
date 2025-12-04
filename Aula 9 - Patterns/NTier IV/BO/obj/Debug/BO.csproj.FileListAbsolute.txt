@@ -1,0 +1,6 @@
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\BO\bin\Debug\BO.dll
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\BO\bin\Debug\BO.pdb
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\BO\obj\Debug\BO.csproj.AssemblyReference.cache
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\BO\obj\Debug\BO.dll
+D:\TEMP\LESI-POO-2024-2025\Aulas\GereClientesCamadas\BO\obj\Debug\BO.pdb

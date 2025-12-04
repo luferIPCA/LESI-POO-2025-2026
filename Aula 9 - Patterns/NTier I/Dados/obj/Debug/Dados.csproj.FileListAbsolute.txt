@@ -1,0 +1,9 @@
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Dados\bin\Debug\Dados.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Dados\bin\Debug\Dados.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Dados\bin\Debug\BO.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Dados\bin\Debug\BO.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Dados\obj\Debug\Dados.csproj.Up2Date
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Dados\obj\Debug\Dados.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Dados\obj\Debug\Dados.pdb
