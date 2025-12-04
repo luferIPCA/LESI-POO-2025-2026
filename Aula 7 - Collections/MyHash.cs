@@ -1,0 +1,121 @@
+﻿/*
+ * MyCollections
+ * 
+ * http://www.tutorialspoint.com/csharp/csharp_collections.htm
+ * 
+ * HashTables 
+ * 
+ * "Hashing": Converter valor (chave aplicacional) em index único (chave) de um array
+ * 
+ * Exemplo: converter "números de BI" num número de acesso único!
+ * POO
+ * by lufer
+ * */
+
+using System.Collections;
+using System.Security.Cryptography.X509Certificates;
+using System.Text;
+
+namespace MyCollections
+{
+    /// <summary>
+    /// Gerir uma HashTable
+    /// </summary>
+    class MyHashTable
+    {
+
+        const int HASHSIZE=51;
+        private Hashtable myHash;
+
+        public MyHashTable()
+        {
+            myHash = new Hashtable();
+        }
+
+        /// <summary>
+        /// Cuidado!
+        /// </summary>
+        public Hashtable MyHash
+        {
+            get {return myHash;}
+            set {myHash=value;}
+        }
+
+
+        /// <summary>
+        /// Mostra toda a Hash com Enumerator
+        /// </summary>
+        /// <returns></returns>
+        public StringBuilder ShowHash()
+        {
+            IDictionaryEnumerator enumerator = myHash.GetEnumerator();
+            StringBuilder buffer = new StringBuilder();
+            while (enumerator.MoveNext())
+            {
+                buffer.Append("Chave: " + enumerator.Key + " Valor= " + ((Pessoa)(enumerator.Value)).idade + " \n");
+            }
+            return buffer;
+        }
+
+        #region Gerir Colisões
+        /// <summary>
+        /// Hashing Function: "x % max"
+        /// </summary>
+        /// <param name="s"></param>
+        /// <returns></returns>
+        public int MyGetHashCode(string s, int size)
+        {
+            char[] aux = s.ToCharArray();
+            int key = 0;
+            foreach(char c in aux)
+            {
+                key += (int)c;
+            }
+            return (key % size);
+        }
+
+
+        /// <summary>
+        /// Inserir com tratamento de colisões
+        /// </summary>
+        /// <param name="o"></param>
+        /// <returns></returns>
+        public bool MyInsert(object o)
+        {
+            if (o.GetType() == typeof(int))
+            {
+                //FAZER
+            }
+            else
+            {
+                int key = MyGetHashCode(((Pessoa)o).nome, 50);  //descobre a hask key
+
+                if (!myHash.ContainsKey(key))
+                {
+                    myHash.Add(key, new ArrayList());       //Se não existe cria o ArrayList
+                }
+                ((ArrayList)(myHash[key])).Add(o);          //insere!
+            }
+            return true;
+
+            //int k=p.Ano;
+            //if (!produtos.ContainsKey(k))
+            //{
+            //    produtos.Add(key, new List<Product>());       //Se não existe cria o ArrayList
+            //}
+            //produtos[key].Add(p)
+        }
+
+        public bool ExisteValor(object k)
+        {
+            if (!(k is string)) return false;
+            string s = k as string;
+
+            int chave = MyGetHashCode(s,51);
+            if (!myHash.ContainsKey(chave)) { return false; }   
+            return ((ArrayList)(myHash[chave])).Contains(k);
+        }
+
+        #endregion
+    }
+}
