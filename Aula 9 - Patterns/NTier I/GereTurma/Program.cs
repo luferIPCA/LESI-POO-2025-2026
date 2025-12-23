@@ -3,6 +3,7 @@
 using BO;
 using Regras;
 using System;
+using Exceptions;
 
 namespace GereTurma
 {
@@ -10,10 +11,16 @@ namespace GereTurma
     {
         static void Main(string[] args)
         {
-
+            bool suc = false;
             Aluno a = new Aluno();
-
-            bool suc = ControlaDados.InsereAlunoTurma(a);
+            try
+            {
+                suc = ControlaDados.InsereAlunoTurma(a);
+            }
+            catch(AlunoNaoPagouPropinasException e)
+            {
+                Console.Write("Impossivel pois " + e.Message);
+            }
 
             if (suc == true)
             {

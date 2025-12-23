@@ -1,0 +1,6 @@
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\Patterns I\bin\Debug\Patterns.exe
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\Patterns I\bin\Debug\Patterns.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\Patterns I\obj\Debug\Patterns I.csproj.AssemblyReference.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\Patterns I\obj\Debug\Patterns I.csproj.CoreCompileInputs.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\Patterns I\obj\Debug\Patterns.exe
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\Patterns I\obj\Debug\Patterns.pdb

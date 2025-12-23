@@ -36,6 +36,9 @@
     <Reference Include="BO">
       <HintPath>..\BO\bin\Debug\BO.dll</HintPath>
     </Reference>
+    <Reference Include="Exceptions">
+      <HintPath>..\Exceptions\bin\Debug\Exceptions.dll</HintPath>
+    </Reference>
     <Reference Include="Regras">
       <HintPath>..\Regras\bin\Debug\Regras.dll</HintPath>
     </Reference>

@@ -71,7 +71,7 @@ namespace MVC_II.Controller
     /// <summary>
     /// COMPLETAR
     /// </summary>
-    internal class GereHistorico : IIndicadoresHistory
+    internal class GereHistorico// : IIndicadoresHistory
     {
         List<IIndicadoresModel> bd;
 

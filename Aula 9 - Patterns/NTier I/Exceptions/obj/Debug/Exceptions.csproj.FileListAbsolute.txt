@@ -1,0 +1,6 @@
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\Exceptions\bin\Debug\Exceptions.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\Exceptions\bin\Debug\Exceptions.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\Exceptions\obj\Debug\Exceptions.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\Exceptions\obj\Debug\Exceptions.pdb

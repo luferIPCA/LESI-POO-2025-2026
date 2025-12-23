@@ -12,3 +12,19 @@ D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\GereTurma\obj\Debug\GereTurma.csproj.Co
 D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\GereTurma\obj\Debug\GereTurma.csproj.Up2Date
 D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\GereTurma\obj\Debug\GereTurma.exe
 D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\GereTurma\obj\Debug\GereTurma.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\GereTurma\bin\Debug\GereTurma.exe.config
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\GereTurma\bin\Debug\GereTurma.exe
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\GereTurma\bin\Debug\GereTurma.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\GereTurma\bin\Debug\BO.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\GereTurma\bin\Debug\Exceptions.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\GereTurma\bin\Debug\Regras.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\GereTurma\bin\Debug\Dados.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\GereTurma\bin\Debug\BO.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\GereTurma\bin\Debug\Exceptions.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\GereTurma\bin\Debug\Regras.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\GereTurma\bin\Debug\Dados.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\GereTurma\obj\Debug\GereTurma.csproj.AssemblyReference.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\GereTurma\obj\Debug\GereTurma.csproj.CoreCompileInputs.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\GereTurma\obj\Debug\GereTurma.csproj.Up2Date
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\GereTurma\obj\Debug\GereTurma.exe
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\GereTurma\obj\Debug\GereTurma.pdb

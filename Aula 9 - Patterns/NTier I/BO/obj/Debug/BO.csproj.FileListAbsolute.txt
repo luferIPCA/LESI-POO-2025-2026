@@ -4,3 +4,9 @@ D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\BO\obj\Debug\BO.csproj.AssemblyReferenc
 D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
 D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\BO\obj\Debug\BO.dll
 D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\BO\obj\Debug\BO.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\BO\bin\Debug\BO.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\BO\bin\Debug\BO.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\BO\obj\Debug\BO.csproj.AssemblyReference.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\BO\obj\Debug\BO.dll
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\NTier I\BO\obj\Debug\BO.pdb

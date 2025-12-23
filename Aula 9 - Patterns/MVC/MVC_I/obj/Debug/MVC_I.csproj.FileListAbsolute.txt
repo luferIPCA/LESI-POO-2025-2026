@@ -1,0 +1,7 @@
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\MVC\MVC_I\bin\Debug\2020-05-15 - Aula 18 - MVC_I.exe.config
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\MVC\MVC_I\bin\Debug\2020-05-15 - Aula 18 - MVC_I.exe
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\MVC\MVC_I\bin\Debug\2020-05-15 - Aula 18 - MVC_I.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\MVC\MVC_I\obj\Debug\MVC_I.csproj.AssemblyReference.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\MVC\MVC_I\obj\Debug\MVC_I.csproj.CoreCompileInputs.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\MVC\MVC_I\obj\Debug\2020-05-15 - Aula 18 - MVC_I.exe
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 9 - Patterns\MVC\MVC_I\obj\Debug\2020-05-15 - Aula 18 - MVC_I.pdb

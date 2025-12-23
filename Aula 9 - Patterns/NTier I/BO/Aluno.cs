@@ -1,4 +1,4 @@
-﻿
+﻿using System.Collections.Generic;
 
 namespace BO
 {
@@ -7,8 +7,9 @@ namespace BO
     /// </summary>
     public class Aluno
     {
-        int num;
-        string nome;
+        int num;            
+        public string nome; //CUIDADO
+        List<string> contactos;
 
         /// <summary>
         /// Const
@@ -17,5 +18,12 @@ namespace BO
         {
 
         }
+
+        public int Num
+        {
+            get { return num; }
+            set { num = value; }
+        }
+
     }
 }
