@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TEMP\\2025-2026\\POO\\LESI-POO-2025-2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F10A19C6-A2B5-4DD8-BA4E-97940126D16D}|Aula 9 - Patterns\\MVC\\MVC_II\\MVC_II.csproj|d:\\temp\\2025-2026\\poo\\lesi-poo-2025-2026\\aula 9 - patterns\\mvc\\mvc_ii\\controller\\iindicadorescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10A19C6-A2B5-4DD8-BA4E-97940126D16D}|Aula 9 - Patterns\\MVC\\MVC_II\\MVC_II.csproj|solutionrelative:aula 9 - patterns\\mvc\\mvc_ii\\controller\\iindicadorescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10A19C6-A2B5-4DD8-BA4E-97940126D16D}|Aula 9 - Patterns\\MVC\\MVC_II\\MVC_II.csproj|d:\\temp\\2025-2026\\poo\\lesi-poo-2025-2026\\aula 9 - patterns\\mvc\\mvc_ii\\model\\indicadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10A19C6-A2B5-4DD8-BA4E-97940126D16D}|Aula 9 - Patterns\\MVC\\MVC_II\\MVC_II.csproj|solutionrelative:aula 9 - patterns\\mvc\\mvc_ii\\model\\indicadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10A19C6-A2B5-4DD8-BA4E-97940126D16D}|Aula 9 - Patterns\\MVC\\MVC_II\\MVC_II.csproj|d:\\temp\\2025-2026\\poo\\lesi-poo-2025-2026\\aula 9 - patterns\\mvc\\mvc_ii\\model\\indicadoreshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10A19C6-A2B5-4DD8-BA4E-97940126D16D}|Aula 9 - Patterns\\MVC\\MVC_II\\MVC_II.csproj|solutionrelative:aula 9 - patterns\\mvc\\mvc_ii\\model\\indicadoreshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10A19C6-A2B5-4DD8-BA4E-97940126D16D}|Aula 9 - Patterns\\MVC\\MVC_II\\MVC_II.csproj|d:\\temp\\2025-2026\\poo\\lesi-poo-2025-2026\\aula 9 - patterns\\mvc\\mvc_ii\\controller\\controlhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10A19C6-A2B5-4DD8-BA4E-97940126D16D}|Aula 9 - Patterns\\MVC\\MVC_II\\MVC_II.csproj|solutionrelative:aula 9 - patterns\\mvc\\mvc_ii\\controller\\controlhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10A19C6-A2B5-4DD8-BA4E-97940126D16D}|Aula 9 - Patterns\\MVC\\MVC_II\\MVC_II.csproj|d:\\temp\\2025-2026\\poo\\lesi-poo-2025-2026\\aula 9 - patterns\\mvc\\mvc_ii\\controller\\controlapandemic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10A19C6-A2B5-4DD8-BA4E-97940126D16D}|Aula 9 - Patterns\\MVC\\MVC_II\\MVC_II.csproj|solutionrelative:aula 9 - patterns\\mvc\\mvc_ii\\controller\\controlapandemic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10A19C6-A2B5-4DD8-BA4E-97940126D16D}|Aula 9 - Patterns\\MVC\\MVC_II\\MVC_II.csproj|d:\\temp\\2025-2026\\poo\\lesi-poo-2025-2026\\aula 9 - patterns\\mvc\\mvc_ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10A19C6-A2B5-4DD8-BA4E-97940126D16D}|Aula 9 - Patterns\\MVC\\MVC_II\\MVC_II.csproj|solutionrelative:aula 9 - patterns\\mvc\\mvc_ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IIndicadoresControl.cs",
+              "DocumentMoniker": "D:\\TEMP\\2025-2026\\POO\\LESI-POO-2025-2026\\Aula 9 - Patterns\\MVC\\MVC_II\\Controller\\IIndicadoresControl.cs",
+              "RelativeDocumentMoniker": "Aula 9 - Patterns\\MVC\\MVC_II\\Controller\\IIndicadoresControl.cs",
+              "ToolTip": "D:\\TEMP\\2025-2026\\POO\\LESI-POO-2025-2026\\Aula 9 - Patterns\\MVC\\MVC_II\\Controller\\IIndicadoresControl.cs",
+              "RelativeToolTip": "Aula 9 - Patterns\\MVC\\MVC_II\\Controller\\IIndicadoresControl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:40:55.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControlHistory.cs",
+              "DocumentMoniker": "D:\\TEMP\\2025-2026\\POO\\LESI-POO-2025-2026\\Aula 9 - Patterns\\MVC\\MVC_II\\Controller\\ControlHistory.cs",
+              "RelativeDocumentMoniker": "Aula 9 - Patterns\\MVC\\MVC_II\\Controller\\ControlHistory.cs",
+              "ToolTip": "D:\\TEMP\\2025-2026\\POO\\LESI-POO-2025-2026\\Aula 9 - Patterns\\MVC\\MVC_II\\Controller\\ControlHistory.cs",
+              "RelativeToolTip": "Aula 9 - Patterns\\MVC\\MVC_II\\Controller\\ControlHistory.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:40:19.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlaPandemic.cs",
+              "DocumentMoniker": "D:\\TEMP\\2025-2026\\POO\\LESI-POO-2025-2026\\Aula 9 - Patterns\\MVC\\MVC_II\\Controller\\ControlaPandemic.cs",
+              "RelativeDocumentMoniker": "Aula 9 - Patterns\\MVC\\MVC_II\\Controller\\ControlaPandemic.cs",
+              "ToolTip": "D:\\TEMP\\2025-2026\\POO\\LESI-POO-2025-2026\\Aula 9 - Patterns\\MVC\\MVC_II\\Controller\\ControlaPandemic.cs",
+              "RelativeToolTip": "Aula 9 - Patterns\\MVC\\MVC_II\\Controller\\ControlaPandemic.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:37:59.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TEMP\\2025-2026\\POO\\LESI-POO-2025-2026\\Aula 9 - Patterns\\MVC\\MVC_II\\Program.cs",
+              "RelativeDocumentMoniker": "Aula 9 - Patterns\\MVC\\MVC_II\\Program.cs",
+              "ToolTip": "D:\\TEMP\\2025-2026\\POO\\LESI-POO-2025-2026\\Aula 9 - Patterns\\MVC\\MVC_II\\Program.cs",
+              "RelativeToolTip": "Aula 9 - Patterns\\MVC\\MVC_II\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:37:50.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Indicadores.cs",
+              "DocumentMoniker": "D:\\TEMP\\2025-2026\\POO\\LESI-POO-2025-2026\\Aula 9 - Patterns\\MVC\\MVC_II\\Model\\Indicadores.cs",
+              "RelativeDocumentMoniker": "Aula 9 - Patterns\\MVC\\MVC_II\\Model\\Indicadores.cs",
+              "ToolTip": "D:\\TEMP\\2025-2026\\POO\\LESI-POO-2025-2026\\Aula 9 - Patterns\\MVC\\MVC_II\\Model\\Indicadores.cs",
+              "RelativeToolTip": "Aula 9 - Patterns\\MVC\\MVC_II\\Model\\Indicadores.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:37:22.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IndicadoresHistory.cs",
+              "DocumentMoniker": "D:\\TEMP\\2025-2026\\POO\\LESI-POO-2025-2026\\Aula 9 - Patterns\\MVC\\MVC_II\\Model\\IndicadoresHistory.cs",
+              "RelativeDocumentMoniker": "Aula 9 - Patterns\\MVC\\MVC_II\\Model\\IndicadoresHistory.cs",
+              "ToolTip": "D:\\TEMP\\2025-2026\\POO\\LESI-POO-2025-2026\\Aula 9 - Patterns\\MVC\\MVC_II\\Model\\IndicadoresHistory.cs",
+              "RelativeToolTip": "Aula 9 - Patterns\\MVC\\MVC_II\\Model\\IndicadoresHistory.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:37:09.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
