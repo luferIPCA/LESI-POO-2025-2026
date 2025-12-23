@@ -1,0 +1,7 @@
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 7 - Collections\bin\Debug\Aula-11-Collections.exe.config
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 7 - Collections\bin\Debug\Aula-11-Collections.exe
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 7 - Collections\bin\Debug\Aula-11-Collections.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 7 - Collections\obj\Debug\Aula 7 - Collections.csproj.AssemblyReference.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 7 - Collections\obj\Debug\Aula 7 - Collections.csproj.CoreCompileInputs.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 7 - Collections\obj\Debug\Aula-11-Collections.exe
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 7 - Collections\obj\Debug\Aula-11-Collections.pdb
