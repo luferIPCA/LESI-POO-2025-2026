@@ -1,0 +1,7 @@
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 8 - Generics\bin\Debug\Aula-12-Generics.exe.config
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 8 - Generics\bin\Debug\Aula-12-Generics.exe
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 8 - Generics\bin\Debug\Aula-12-Generics.pdb
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 8 - Generics\obj\Debug\Aula 8 - Generics.csproj.AssemblyReference.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 8 - Generics\obj\Debug\Aula 8 - Generics.csproj.CoreCompileInputs.cache
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 8 - Generics\obj\Debug\Aula-12-Generics.exe
+D:\TEMP\2025-2026\POO\LESI-POO-2025-2026\Aula 8 - Generics\obj\Debug\Aula-12-Generics.pdb

@@ -59,7 +59,7 @@ namespace Generics_II
 
             XInt x1 = new XInt();
             x1.x = 12;
-            x1.valores[2] = 13;
+            //x1.valores[2] = 13;
 
 
             XString x2 = new XString();
