@@ -1,0 +1,7 @@
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula 16 - SOLID\Aula-16-SRP\obj\Debug\Aula-16-SRP.csproj.AssemblyReference.cache
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula 16 - SOLID\Aula-16-SRP\obj\Debug\Aula-16-SRP.csproj.CoreCompileInputs.cache
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula 16 - SOLID\Aula-16-SRP\bin\Debug\Aula-16-SRP.exe.config
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula 16 - SOLID\Aula-16-SRP\bin\Debug\Aula-16-SRP.exe
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula 16 - SOLID\Aula-16-SRP\bin\Debug\Aula-16-SRP.pdb
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula 16 - SOLID\Aula-16-SRP\obj\Debug\Aula-16-SRP.exe
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula 16 - SOLID\Aula-16-SRP\obj\Debug\Aula-16-SRP.pdb

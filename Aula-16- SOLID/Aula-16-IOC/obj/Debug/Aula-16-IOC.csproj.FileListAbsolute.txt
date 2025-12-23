@@ -1,0 +1,7 @@
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula 16 - SOLID\Aula-16-IOC\bin\Debug\Aula-16-IOC.exe.config
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula 16 - SOLID\Aula-16-IOC\bin\Debug\Aula-16-IOC.exe
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula 16 - SOLID\Aula-16-IOC\bin\Debug\Aula-16-IOC.pdb
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula 16 - SOLID\Aula-16-IOC\obj\Debug\Aula-16-IOC.csproj.AssemblyReference.cache
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula 16 - SOLID\Aula-16-IOC\obj\Debug\Aula-16-IOC.csproj.CoreCompileInputs.cache
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula 16 - SOLID\Aula-16-IOC\obj\Debug\Aula-16-IOC.exe
+D:\TEMP\LESI-POO-2024-2025\Aulas\Aula 16 - SOLID\Aula-16-IOC\obj\Debug\Aula-16-IOC.pdb
